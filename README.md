@@ -1,2 +1,2 @@
 # Game_Peactice
-Project such as snake, sudoku as practicce
+Project such as snake, sudoku, 2048 as practicce
